@@ -1,4 +1,2 @@
-# bestdeveloper-issues
-BestDeveloper - Issues Repo
-
-Info: BestCloudCode is realsed now
+# bestdodger-issues
+BestDodger - Issues Repo
